@@ -8,7 +8,7 @@ askFinz's application to EAISI's AI startup cohort in Neuron: what we build, wha
 
 ### Read live from the index. Every figure opens the page behind it
 
-50.5M passages, each kept with its source How it works 49 typed collections: research, law, standards, patents, trials, news The collections 287k pages read in the last 24 hours by the node fleet Live status 18 workspaces open behind one sign-in The workspaces 380+ AI models, auto-routed, no…
+50.5M passages, each kept with its source How it works 49 typed collections: research, law, standards, patents, trials, news The collections 288k pages read in the last 24 hours by the node fleet Live status 18 workspaces open behind one sign-in The workspaces 380+ AI models, auto-routed, no…
 
 ### Five contributions, each backed by something you can open today
 
