@@ -8,7 +8,7 @@ Facts, boilerplate and brand guidance for writing about askFinz, an Eindhoven co
 
 - [Partner with askFinz](docs/company/partners.md): Have your pages read properly and kept current, run Indexer OS on your own hardware, or build on the index itself.
 - [askFinz × EAISI: scaling our web index from Neuron](docs/company/easi.md): askFinz's application to EAISI's AI startup cohort in Neuron: what we build, what we bring to TU/e, and the video, one-pager and team.
-- [About askFinz: an AI company from Eindhoven](docs/company/about.md): askFinz is built by a small team that wanted AI tools to feel like a workshop — not a single hammer. Read why.
+- [About askFinz: an AI company from Eindhoven](docs/company/about.md): askFinz is built by Paul Varghese, its founder and sole developer, who wanted AI tools to feel like a workshop — not a single hammer.
 - [Careers and how we hire](docs/company/careers.md): We're not hiring publicly yet. Here's how we hire, what it's like to work here, and how to be first to know when roles open.
 - [Contact us: press, sales and support](docs/company/contact.md): Press, sales and a general inbox — three ways to reach a human at askFinz, and what each one is for. We answer within two working days.
 - [Brand assets and logo guidelines](docs/company/brand.md): Marks, type, and the rules around them. Logo downloads, typography, and brand do's and don'ts.
@@ -20,4 +20,4 @@ Facts, boilerplate and brand guidance for writing about askFinz, an Eindhoven co
 
 Every file here is a structured summary generated from the matching page on askfinz.com, and links back to it. The website is the source of truth; if the two ever differ, trust the site.
 
-Generated 2026-10-28.
+Generated 2026-10-29.

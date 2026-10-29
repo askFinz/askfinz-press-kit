@@ -1,6 +1,6 @@
 # About askFinz: an AI company from Eindhoven
 
-askFinz is built by a small team that wanted AI tools to feel like a workshop — not a single hammer. Read why.
+askFinz is built by Paul Varghese, its founder and sole developer, who wanted AI tools to feel like a workshop — not a single hammer.
 
 **Canonical page:** [https://askfinz.com/about](https://askfinz.com/about)
 
