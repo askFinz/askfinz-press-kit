@@ -41,11 +41,11 @@ There is no form-filling exercise behind this and no sales sequence. It sends on
 ## Related
 
 - [askFinz × EAISI: scaling our web index from Neuron](https://askfinz.com/colab/easi)
+- [askFinz × Snellius: a collaboration with the Dutch national supercomputer](https://askfinz.com/colab/snellius)
+- [askFinz × TU/e HPC: a collaboration with TU/e supercomputing](https://askfinz.com/colab/tue-hpc)
+- [askFinz × TU/e KTO: a collaboration with TU/e's Knowledge Transfer Office](https://askfinz.com/colab/kto)
 - [About askFinz: an AI company from Eindhoven](https://askfinz.com/about)
 - [Careers and how we hire](https://askfinz.com/careers)
-- [Contact us: press, sales and support](https://askfinz.com/contact)
-- [Brand assets and logo guidelines](https://askfinz.com/brand)
-- [Press and media kit](https://askfinz.com/press)
 
 ---
 
