@@ -6,6 +6,10 @@ askFinz and the Knowledge Transfer Office of Eindhoven University of Technology:
 
 ## Key points
 
+### From first idea to spin-off. The start of a venture at TU/e
+
+The KTO supports students and researchers with the first steps of starting a company, whether that is a student startup or a scientific spin-off.
+
 ### Build it together. From Eindhoven
 
 Questions about askFinz and TU/e KTO: write to Paul Varghese at paul@askfinz.com.

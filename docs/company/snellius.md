@@ -6,6 +6,10 @@ askFinz and Snellius, the Dutch national supercomputer run by SURF: a collaborat
 
 ## Key points
 
+### The largest supercomputer in the Netherlands. Built by Lenovo, run by SURF
+
+Snellius sits in the Amsterdam Data Tower at Amsterdam Science Park. Queen Máxima opened it in September 2021, and it has grown in phases since then.
+
 ### Build it together. From Eindhoven
 
 Questions about askFinz and Snellius: write to Paul Varghese at paul@askfinz.com.

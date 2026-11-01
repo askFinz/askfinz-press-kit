@@ -6,6 +6,10 @@ askFinz and the high-performance computing service of Eindhoven University of Te
 
 ## Key points
 
+### Two platforms, on campus. A shared cluster and a GPU system for AI
+
+The TU/e Supercomputing Center runs two platforms. Umbrella is the university's HPC cluster, built from CPU and GPU machines that 9 departments and groups contribute, and anyone with a TU/e account can get access.
+
 ### Build it together. From Eindhoven
 
 Questions about askFinz and TU/e HPC: write to Paul Varghese at paul@askfinz.com.
